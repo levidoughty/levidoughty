@@ -5,7 +5,7 @@
 - 💬 Here are some other methods to reach me:
 - 🔑 Keybase: [levidoughty](https://keybase.io/levidoughty)
 - 📥 Telegram: [levidoughty](https://t.me/levidoughty)
-- 📟 Wire: levidoughty
+- 📟 Wire: [levidoughty](https://account.wire.com/user-profile/?id=1fdd2577-adfc-4d0a-b2cd-30f604832913)
 
 - My profile is still a WIP, so check back soon for updates! I hopefully will have a self-coded website in the future!
 <!---
